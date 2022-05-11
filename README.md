@@ -24,6 +24,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+[Patika](https://www.patika.dev)
+
 ![Kodluyoruz Logo](https://github.com/Erelius/kodluyoruzilkrepo/blob/main/kodluyoruz_logo.jpg?raw=true)
 
-[Patika](https://www.patika.dev)
+
